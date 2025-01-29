@@ -1,0 +1,5 @@
+.venv
+tests
+pyhton_agendador_tarefa
+poetry.lock
+pyproject.toml
